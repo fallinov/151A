@@ -1,2 +1,2 @@
 # 151A
-Fichiers du module ICT 151A de l'école professionnelle de Porrentruy.
+Fichiers du module ICT 151A.
